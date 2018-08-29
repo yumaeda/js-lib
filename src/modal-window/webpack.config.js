@@ -1,9 +1,9 @@
 module.exports = {
     mode: 'production',
     entry: [
-        "./src/wine-info.js"
+        "./modal-window.js"
     ],
     output: {
-        filename: "WineInfo.js"
+        filename: "ModalWindow.js"
     }
 }

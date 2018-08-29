@@ -1,9 +1,9 @@
 module.exports = {
     mode: 'production',
     entry: [
-        "./src/country-info.js"
+        "./url-query.js"
     ],
     output: {
-        filename: "CountryInfo.js"
+        filename: "UrlQuery.js"
     }
 }
