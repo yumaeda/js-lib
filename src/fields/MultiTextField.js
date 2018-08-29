@@ -1,4 +1,4 @@
-import { TextAreaTag } from './html_tags'
+import { TextAreaTag } from '../../vendor/html-tags'
 
 //-------------------------------------------------------
 //

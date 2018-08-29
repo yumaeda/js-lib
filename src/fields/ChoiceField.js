@@ -1,4 +1,4 @@
-import { SelectTag } from './html_tags'
+import { InputTag } from '../../vendor/html-tags'
 
 //-------------------------------------------------------
 //
