@@ -1,7 +1,8 @@
 ## Installation
 1. Install webpack
 ```bash
-sudo npm install webpack -g
+sudo npm install -g webpack
+sudo npm install -g typescript
 ```
 
 2. Bundles JavaScirpt files
@@ -20,4 +21,10 @@ webpack
 
 cd wine-info
 webpack
+```
+
+3. Compile TypeScript files
+```bash
+cd ts
+tsc *.ts
 ```
