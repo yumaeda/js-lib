@@ -1,8 +1,7 @@
 //-------------------------------------------------------
 // FormValidator
 //-------------------------------------------- YuMaeda --
-var FormValidator = (function()
-{
+var FormValidator = (function() {
     // Private members
 
     var _validate = function($form)
